@@ -1,3 +1,3 @@
-# handwriiten-digit-ConvolutionNeuralNetwork-mnist
+# handwritten-digit-ConvolutionNeuralNetwork-mnist
 
 This code implements a Convolutional Neural Network (CNN) for digit classification using the MNIST dataset. The code loads the dataset, normalizes the pixel values, and reshapes the images. It then defines a CNN model with multiple convolutional and pooling layers followed by fully connected layers. The model is compiled with a loss function and optimizer. The training data is used to train the model, and the performance is evaluated on the test data. Predictions are made on the test set, and the results are printed along with the predicted label for the first test sample. The first test image is also displayed using matplotlib. This code can be used as a starting point for understanding and experimenting with CNNs for digit recognition tasks.
